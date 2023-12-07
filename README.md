@@ -1,6 +1,6 @@
 # AVR-PX4-Firmware
 
-[![Build PX4/Pymavlink](https://github.com/bellflight/AVR-PX4-Firmware/actions/workflows/build.yml/badge.svg)](https://github.com/bellflight/AVR-PX4-Firmware/actions/workflows/build.yml)
+[![Build PX4/Pymavlink](https://github.com/nathanvaughn/AVR-PX4-Firmware/actions/workflows/build.yml/badge.svg)](https://github.com/nathanvaughn/AVR-PX4-Firmware/actions/workflows/build.yml)
 
 This repository produces builds of [PX4](https://px4.io/) with the patches
 required for Bell AVR HIL GPS, along with modified versions of

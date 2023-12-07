@@ -327,7 +327,7 @@ def main(
         # git config does not matter, just need *something* to commit,
         # they're not pushed anywhere
         subprocess.check_call(
-            ["git", "config", "user.email", "github-bot@bellflight.com"], cwd=PX4_DIR
+            ["git", "config", "user.email", "github-bot@nvaughn.email"], cwd=PX4_DIR
         )
         subprocess.check_call(
             ["git", "config", "user.name", "Github Actions"], cwd=PX4_DIR
